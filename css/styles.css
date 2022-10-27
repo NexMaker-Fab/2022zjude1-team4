@@ -4221,3 +4221,30 @@ footer .footer-nav ul.footer-secondary-nav li {
         margin: 20px 0
     }
 }
+
+.content {
+    width: 1560px;
+    height: 100%;
+    margin-left: 120px;
+    margin-top: 50px;
+}
+
+.content .title2 {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font: inherit;
+    font-size: 30px;
+    vertical-align: baseline;
+    margin-bottom: 40px;
+    margin-top: 60px;
+}
+
+.content p {
+    font-size: 20px;
+    line-height: 27px;
+    padding-bottom: 15px;
+    color: #414A52;
+    margin-bottom: 1px;
+    line-height: 45px;
+}
